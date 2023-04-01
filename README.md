@@ -1,7 +1,7 @@
 A script I wrote for a glitch art assignement. Example output: 
 
-![](https://github.com/frowenz/glitch/raw/main/voyage_of_life.gif)
-![](https://github.com/frowenz/glitch/raw/main/jake_dalle.gif)
+<img src="https://github.com/frowenz/glitch/raw/main/voyage_of_life.gif" alt="Voyage of Life" height="200px">
+<img src="https://github.com/frowenz/glitch/raw/main/jake_dalle.gif" alt="Jake Dalle" height="200px">
 
 #### How to run the script
 
