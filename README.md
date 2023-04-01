@@ -1,6 +1,6 @@
 A script I wrote for a glitch art assignement. Example output: 
 
-![](https://github.com/frowenz/glitch/raw/main/voyage_of_life_1.mp4)
+![](https://github.com/frowenz/glitch/raw/main/voyage_of_life.gif)
 
 #### How to run the script
 
