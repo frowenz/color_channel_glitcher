@@ -2,7 +2,7 @@ A script I wrote for a glitch art assignement. Example output:
 
 ![](https://github.com/frowenz/glitch/raw/main/voyage_of_life.gif)
 
-![](https://github.com/frowenz/glitch/raw/main/jake_dalle.mp4)
+![](https://imgur.com/a/vU2jyYV.mp4)
 
 #### How to run the script
 
