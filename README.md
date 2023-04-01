@@ -2,6 +2,8 @@ A script I wrote for a glitch art assignement. Example output:
 
 ![](https://github.com/frowenz/glitch/raw/main/voyage_of_life.gif)
 
+![](https://github.com/frowenz/glitch/raw/main/jake_dalle.mp4)
+
 #### How to run the script
 
 Open a terminal and navigate to the directory containing the script. Then, execute the following command:
