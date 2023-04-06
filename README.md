@@ -10,5 +10,5 @@ Open a terminal and navigate to the directory containing the script. Then, execu
 python3 color_channel_offset.py YOUR_IMAGE.png
 ```
 
-Note: The script expects an input image in PNG format. You can modify the script to support other formats if necessary.
+Note: The script expects an input image in PNG format
 
